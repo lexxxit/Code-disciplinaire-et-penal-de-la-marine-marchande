@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1939-06-06
+Version Consolidée au 1939-08-03
 
 # Partie législative
 
@@ -853,6 +853,75 @@ dernier.
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+
+## Titre IV : Des tribunaux maritimes commerciaux.
+
+###### Article 88
+
+Il est institué des tribunaux maritimes commerciaux qui connaissent des délits visés à l'article 36 bis.
+
+**Nota:**
+
+Article 88 nouveau*].
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
+###### Article 92
+
+Les tribunaux maritimes commerciaux ne peuvent juger par défaut. Ils ne connaissent pas de l'action civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article 93
+
+Le prévenu condamné par jugement des tribunaux maritimes commerciaux peut se pourvoir en cassation pour violation ou fausse
+application de la loi.
+
+Le pourvoi sera formé par une déclaration reçue par le greffier du tribunal qui aura rendu le jugement et inscrite sur un
+registre spécial tenu à cet effet. Il sera, quant aux délais et aux formes, assimilé aux pourvois en matière de police
+correctionnelle.
+
+Le ministre chargé de la marine marchande pourra, dans les cas prévus par l'article 620 du Code de procédure pénale,
+transmettre au ministre de la justice, pour être déférés à la Cour de cassation, dans l'intérêt de la loi, les jugements des
+tribunaux maritimes commerciaux qui seraient susceptibles d'être annulés pour violation des articles concernant le mode de
+procéder devant les tribunaux maritimes commerciaux ou des dispositions concernant les pénalités.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 620 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ## Titre V : Dispositions diverses.
