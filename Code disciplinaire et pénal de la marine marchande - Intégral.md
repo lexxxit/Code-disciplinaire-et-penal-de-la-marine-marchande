@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1986-10-01
 
 # Partie législative
 
@@ -823,7 +823,71 @@ le navire était en rade foraine ou en mer, d'un emprisonnement d'un à deux ans
 	  - Loi n°1926-12-17
 
 
+###### Article 41
+
+Est puni d'une amende de 360 à 15.000 francs [*sanction - montant - taux en vigueur, selon la loi 85-835 1985-08-07, au 1er
+octobre 1986*] tout capitaine qui ne se tient pas en personne dans son navire à l'entrée et à la sortie des ports, havres ou
+rivières.
+
+**Nota:**
+
+[*Nota : Intitulé du titre III modifié par la loi 62-899 1962-08-04 art. 3.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+
 ### Chapitre III : Infractions touchant la police intérieure du navire.
+
+###### Article 42
+
+Tout capitaine, officier ou maître, qui abuse de son autorité ou qui ordonne, autorise ou tolère un abus d'autorité vis-à-vis
+d'une personne embarquée, est puni d'une amende de 180 à 15000 F [*sanction - francs - montant -taux en vigueur selon la loi
+85-835 1985-08-07 au 1er octobre 1986*] et d'un emprisonnement de six jours à six mois, ou de l'une de ces deux peines
+seulement.
+
+Est puni de la même peine, tout capitaine, officier ou maître, coupable d'outrage caractérisé par parole, geste ou menace,
+envers les hommes de l'équipage.
+
+Tout capitaine, officier ou maître, qui hors les motifs légitimes visés à l'article 2, a usé ou fait user de violence dans
+l'exercice ou à l'occasion de l'exercice de ses fonctions, est puni conformément aux dispositions des articles 186 et 198 du
+Code pénal [*abus d'autorité*]. 
+
+Dans cas prévus aux deux paragraphes précédents, la peine peut être doublée s'il s'agit d'un novice ou d'un mousse.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre III modifiés par la loi 62-899 1962-08-04 art. 3 et art. 16 (JORF 5 août
+1962).*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+	**Cite**:
+
+	  - Code pénal 186 et 198
+	  - Code disciplinaire et pénal de la marine marchande - art. 2 (V)
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 39 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
 
 ###### Article 43
 
@@ -984,6 +1048,30 @@ janvier 1969)).
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+
+###### Article 49
+
+Toute personne embarquée qui supprime intentionnellement ou conserve abusivement une lettre qui lui est confiée pour être
+remise à une personne embarquée sur le même navire, au lieu de la faire parvenir au destinataire, ou qui, dans les mêmes
+conditions, ouvre une lettre confiée à ses soins, est punie d'un emprisonnement de six jours à trois mois ou d'une amende de
+180 à 15000 francs [*sanction - montant - taux en vigueur selon la loi 85-835 1985-08-07 au 1er octobre 1986*].
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre III modifiés par la loi 62-899 1962-08-04 art. 3 et art. 16 (JORF 5 août
+1962).*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
 
 
 ###### Article 50
@@ -1147,6 +1235,29 @@ L'article 23 du présent code a été abrogé par le décret 60-1193 1960-11-07 
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+
+###### Article 57
+
+Est puni d'une amende de 180 à 15000 francs [*sanction - francs - montant - taux en vigueur selon la loi 85-835 1985-08-07 au
+1er octobre 1986*] et d'un emprisonnement de six jours à six mois, ou de l'une de ces deux peines seulement, tout officier,
+maître ou homme d'équipage qui se rend coupable d'outrage par parole, geste ou menace envers un supérieur.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre III modifiés par la loi 62-899 1962-08-04 art. 3 et art. 16 (JORF 5 août
+1962).*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
 
 
 ###### Article 58
@@ -1409,6 +1520,33 @@ est puni d'un emprisonnement de six mois à deux ans.
 	  - Loi n°1926-12-17
 
 
+###### Article 67
+
+Tout capitaine qui, ayant laissé à terre, dans un port où n'existe aucune autorité française, un officier, un maître ou un
+homme d'équipage malade ou blessé, ne lui procure pas les moyens d'assurer son traitement et son rapatriement, est puni d'une
+amende de 180 à 15000 francs [*sanction - montant - taux en vigueur, selon la loi 85-835 1985-08-07 au 1er octobre 1986*] et
+d'un emprisonnement de six jours à deux mois [*durée*], ou de l'une de ces deux peines seulement.
+
+La même peine est encourue par le capitaine qui, ayant laissé à terre, avant qu'il ait atteint son lieu de destination, un
+passager malade ou blessé, ne donne pas avis de cette mesure à l'autorité consulaire du pays auquel appartient le passager
+débarqué ou, à défaut, à l'autorité locale.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+
 ###### Article 68
 
 Tout armateur qui exploite ou fait exploiter à terre un économat, en violation des dispositions de l'article 77 du code du
@@ -1429,6 +1567,33 @@ NOTA : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 196
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+
+###### Article 70
+
+Toute personne qui, sur un navire français, exerce sans l'autorisation de l'administrateur des affaires maritimes et hors le
+cas de force majeure, soit le commandement du bâtiment, soit toute autre fonction du bord, sans satisfaire aux conditions
+exigées par les lois et règlements maritimes, est punie d'un emprisonnement de six jours à un an et d'une amende de 360 à
+15000 francs [*sanction - montant - taux en vigueur selon la loi 85-835 1985-08-07 au 1er octobre 1986*] ou de l'une de ces
+deux peines seulement.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
 
 
 ###### Article 72
@@ -1517,6 +1682,34 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce dès l'e
 	  - SPEC_APPLI: Loi n°93-913 1993-07-19
 
 
+###### Article 75
+
+Toute personne embarquée qui, à l'insu du capitaine, introduit sur un navire, en vue de les faire transporter, des
+marchandises non inscrites au manifeste, est punie d'une amende de 60 à 15000 francs [*sanctions - montant - taux en vigueur
+selon la loi 85-835 1985-08-07 au 1er octobre 1986*] et d'un emprisonnement de six jours à six mois [*durée*], ou de l'une de
+ces deux peines seulement, sans préjudice du droit du capitaine de jeter à la mer, dans les conditions de l'article 23 du
+Code du travail maritime, les marchandises indûment chargées sur le bâtiment.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 23 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+
 ###### Article 76
 
 Tout capitaine qui, hors le cas d'empêchement légitime, ne dépose pas son rôle d'équipage et son livre de discipline au
@@ -1579,6 +1772,37 @@ qui le dirige comme pilote.
 	  - Loi n°1926-12-17
 
 
+###### Article 80
+
+Est puni de six jours à trois mois d'emprisonnement [*durée*] et d'une amende de 60 à 15000 francs [*sanctions - montant -
+taux en vigueur, selon la loi 85-835 du 7 août 1985*], ou de l'une de ces deux peines seulement, tout capitaine ou chef de
+quart qui se rend coupable d'une infraction aux règles prescrites par les règlements maritimes, soit sur les feux à allumer
+la nuit et les signaux à faire en temps de brume, soit sur la route à suivre et les manoeuvres à exécuter en cas de rencontre
+d'un bâtiment.
+
+Est puni de la même peine, tout pilote qui se rend, coupable d'une infraction aux règles sur la route à suivre.
+
+**Nota:**
+
+[*Nota : Intitulé du titre III modifié par la loi 62-899 du 4 août 1962 art. 3*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Cité par**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 30 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°79-1 du 2 janvier 1979 - art. 4 () JORF 3 janvier 1979
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+
 ###### Article 82
 
 Toute personne de l'équipage, autre que le capitaine, le chef de quart ou le pilote, qui se rend coupable, pendant son
@@ -1605,6 +1829,36 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce dès l'e
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+
+
+###### Article 83
+
+Est puni d'une amende de 720 à 20000 francs [*sanctions - montant - taux en vigueur, selon la loi 77-1468 1977-12-30, au 1er
+janvier 1978*], et d'un emprisonnement d'un mois à deux ans, ou de l'une de ces deux peines seulement, tout capitaine qui,
+après abordage et autant qu'il peut le faire sans danger pour son navire, son équipage et ses passagers, néglige d'employer
+tous les moyens dont il dispose pour sauver du danger créé par l'abordage l'autre bâtiment, son équipage et ses passagers.
+
+Est puni de la même peine le capitaine qui, hors le cas de force majeure, s'éloigne du lieu du sinistre avant de s'être
+assuré qu'une plus longue assistance est inutile à l'autre bâtiment, à son équipage et à ses passagers, et si le bâtiment a
+sombré, avant d'avoir fait tous ses efforts pour recueillir les naufragés. Si une ou plusieurs personnes ont péri par suite
+de la non-exécution des obligations visées au présent paragraphe, la peine peut être portée au double.
+
+Après un abordage, le capitaine de chacun des navires abordés qui, s'il le peut sans danger pour son navire, son équipage ou
+ses passagers, ne fait pas connaître au capitaine de l'autre navire les noms de son propre navire et des ports d'attache, de
+départ et de destination de celui-ci, est puni d'une amende de 180 à 15000 francs [*sanction - montant - taux en vigueur,
+selon la loi 85-835 1985-08-07, au 1er octobre 1986*] et d'un emprisonnement de six jours à trois mois, ou de l'une de ces
+deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
 
 
 ###### Article 84
