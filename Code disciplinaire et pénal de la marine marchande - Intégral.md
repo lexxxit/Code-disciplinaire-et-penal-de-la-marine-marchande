@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1986-12-16
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -543,6 +543,70 @@ Intitulé du titre III modifié par la loi 62-899 1962-08-04 art. 3. *]
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 15
+
+
+###### Article 33
+
+En France métropolitaine et dans les départements d'outre-mer, l'administrateur des affaires maritimes, saisi par le
+capitaine ou par l'un des officiers ou agents énumérés au paragraphe 1er, alinéa 2, de l'article 26, ou agissant d'office,
+complète, s'il y a lieu, l'enquête effectuée par le capitaine en exécution de l'article 28, ou procède dès qu'il a
+connaissance de l'infraction, à une enquête préliminaire, conformément aux dispositions du titre II du livre Ier du Code de
+procédure pénale ; puis il statue dans les conditions ci-après :
+
+Si les faits incriminés ne constituent qu'une faute de discipline, l'administrateur des affaires maritimes inflige à
+l'intéressé une peine disciplinaire.
+
+Si les faits incriminés constituent une contravention de police, prévue à l'article 36, l'administrateur des affaires
+maritimes saisit le procureur de la République qui transmet le procès-verbal à l'officier du ministère public près le
+tribunal de police compétent. S'il s'agit d'une contravention prévue à l'article 36 bis, il saisit : en France métropolitaine
+le président du tribunal maritime commercial, dans les départements d'outre-mer le procureur de la République.
+
+Dans le cas de contraventions passibles d'une amende supérieure à 3000 F  [*sanction - montant - taux résultant de la loi
+89-469 1989-07-10*] commises par des mineurs de dix-huit ans, il est procédé conformément aux dispositions du 2° du dernier
+alinéa du présent article.
+
+Si les faits incriminés constituent un crime ou un délit, l'administrateur des affaires maritimes saisit :
+
+1° Si le délinquant est âgé de dix-huit ans ou plus, le procureur de la République pour les infractions prévues à l'article
+36, ou le président du tribunal maritime commercial pour celles prévues à l'article 36 bis. Toutefois, dans les départements
+d'outre-mer, l'administrateur des affaires maritimes saisit le procureur de la République dans tous les cas ;
+
+2° Si le délinquant est âgé de moins de dix-huit ans à l'époque de l'infraction : le procureur de la République près le
+tribunal pour enfants de la résidence du mineur ou de sa famille. Le mineur est conduit devant ce magistrat aux frais de
+l'Etat et à la diligence de l'administrateur des affaires maritimes.
+
+**Nota:**
+
+NOTA : Intitulé du titre III modifié par la loi 62-899 du 4 août 1962, art. 3.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°56-1219 du 26 novembre 1956 - art. 4 (Ab)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30-1 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 25 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 31 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 35 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 9 JORF 5 août 1962
+	  - Loi n°72-1226 1972-12-29 art. 62 JORF 30 décembre 1972
+	  - Loi n°79-1131 du 28 décembre 1979 - art. 7 (V) JORF 29 décembre 1979
+	  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+	  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 26 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 28 (M)
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 (V)
 
 
 ###### Article 34
@@ -1912,6 +1976,37 @@ Est puni de la même peine, tout pilote qui se rend, coupable d'une infraction a
 	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
 	  - Loi n°79-1 du 2 janvier 1979 - art. 4 () JORF 3 janvier 1979
 	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+
+
+###### Article 81
+
+Si l'une des infractions prévues à l'article 80 ou tout autre fait de négligence imputable au capitaine, chef de quart ou
+pilote, a occasionné, pour le navire ou pour un autre navire, soit un abordage, soit un échouement ou un choc contre un
+obstacle visible ou connu, soit une avarie grave du navire ou de sa cargaison, le coupable est puni de six jours à trois mois
+d'emprisonnement et d'une amende de 60 à 15000 francs ou de l'une de ces deux peines seulement.
+
+Si l'infraction a eu pour conséquence la perte ou l'innavigabilité absolue d'un navire ou la perte d'une cargaison, ou si
+elle a entraîné soit des blessures graves, soit la mort pour une ou plusieurs personnes, le coupable est puni de trois mois à
+deux ans d'emprisonnement et d'une amende de 180 à 15000 francs ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+NOTA : Intitulé du titre III modifié par la loi 62-899 du 4 août 1962 art. 3.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 30 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°72-473 1972-06-12 art. 1 JORF 13 juin 1972 en vigueur le 1er juillet 1972
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 19 juillet 1980 en vigueur le 25 juillet 1980
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
 
 
 ###### Article 82
