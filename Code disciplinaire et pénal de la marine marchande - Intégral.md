@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1979-01-03
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -1661,33 +1661,29 @@ du 26 décembre 1966.
 En ce qui concerne les contraventions ou délits prévus aux articles 80 à 85, l'administrateur des affaires maritimes ne peut
 saisir soit le président du tribunal maritime commercial, soit le procureur de la République, selon les règles établies à
 l'article 36 bis, qu'au vu d'une enquête contradictoire effectuée par ses soins dans les conditions qui seront déterminées
-par un règlement d'administration publique.
-
-**Nota:**
-
-NOTA : Intitulé du titre III modifié par la loi 62-899 du 4 août 1962 art. 3.
+par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°56-1219 du 26 novembre 1956 - art. 6 (Ab)
-	  - Loi du 28 mars 1928 - art. 17 (VT)
 	  - Décret n°81-63 du 20 janvier 1981 - art. 6 (Ab)
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 15 (VT)
 	  - Code des transports - art. L1621-9 (VD)
+	  - Loi du 28 mars 1928 - art. 17 (VT)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 15 (VT)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
 
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°62-899 1962-08-04 art. 19 JORF 5 août 1962
-
-	**Cite**:
-
-	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ###### Article 87
@@ -1960,9 +1956,9 @@ procéder devant les tribunaux maritimes commerciaux ou des dispositions concern
 
 Un décret fixera la forme de procéder devant les tribunaux maritimes commerciaux.
 
-Un règlement d'administration publique détermine les frais qui peuvent être compris sous la dénomination des frais de justice
-pour l'application de la présente loi ; il en établit le tarif, en règle le paiement et le recouvrement, fixe les conditions
-que doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui s'y rapporte.
+Un décret en Conseil d'Etat détermine les frais qui peuvent être compris sous la dénomination des frais de justice pour
+l'application de la présente loi ; il en établit le tarif, en règle le paiement et le recouvrement, fixe les conditions que
+doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui s'y rapporte.
 
 **Liens relatifs à cet article**
 
@@ -1970,9 +1966,9 @@ que doivent remplir les parties prenantes et, d'une façon générale, règle to
 
 	  - Loi n°1926-12-17
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°62-899 1962-08-04 art. 24 JORF 5 août 1962
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ## Titre V : Dispositions diverses.
