@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1940-05-31
+Version Consolidée au 1960-08-04
 
 # Partie législative
 
@@ -613,29 +613,6 @@ NOTA : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 196
 	  - Loi n°1926-12-17
 
 
-###### Article 71
-
-Toute personne qui se livre à une navigation maritime sans être munie, conformément aux lois et règlements, soit d'un rôle
-d'équipage, soit d'un permis ou d'une carte de circulation ou qui n'exhibe pas son rôle, permis ou carte à la première
-réquisition de l'autorité maritime est punie d'une amende de 3000 F à 6000 F si le bâtiment a une jauge brute dépassant 25
-tonneaux, 3000 F à 6000 F dans le cas contraire. Il peut être ajouté à cette amende un emprisonnement de dix jours à un mois
-si l'intéressé s'est fait délivrer un rôle d'équipage au lieu et place d'un permis ou d'une carte de circulation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°60-799 du 2 août 1960 - art. 1 (V) JORF 4 août 1960
-
-	**Cité par**:
-
-	  - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-17
-
-
 ###### Article 72
 
 Tout capitaine qui embarque ou débarque une personne de l'équipage sans faire mentionner cet embarquement ou ce débarquement
@@ -731,22 +708,6 @@ séjourner plus de vingt-quatre heures dans le port (jours fériés exclus), soi
 moins de vingt-quatre heures dans le port, est puni d'une amende de 3000 F à 6000 F.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-17
-
-
-###### Article 77
-
-Tout capitaine qui, à moins de légitime motif d'empêchement, s'abstient, sur une rade étrangère, de se rendre à bord d'un
-bâtiment de guerre français, alors qu'il y a été convoqué pour raison de service est puni d'une amende de 216 à 15000 francs.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°60-799 du 2 août 1960 - art. 1 (V) JORF 4 août 1960
 
 	**Codifié par**:
 
