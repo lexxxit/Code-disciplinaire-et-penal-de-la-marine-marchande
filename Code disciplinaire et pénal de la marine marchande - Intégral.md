@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1967-06-02
+Version Consolidée au 1978-01-01
 
 # Partie législative
 
@@ -849,6 +849,36 @@ frauduleusement sur les documents du bord des faits altérés ou contraires à l
 	  - Loi n°1926-12-17
 
 
+###### Article 45
+
+Est puni d'un emprisonnement de six jours à six mois, tout capitaine qui favorise, par son consentement, l'usurpation de
+l'exercice du commandement à son bord.
+
+La même peine d'emprisonnement, à laquelle il peut être joint une amende de 360 à 20.000 F [*sanction - montant - francs -
+taux en vigueur selon la loi 77-1468 1977-12-30 au 1er janvier 1978*], est prononcée contre toute personne qui a pris
+indûment le commandement d'un navire et contre l'armateur qui serait son complice.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre III modifiés par la loi 62-899 1962-08-04 art. 3 et art. 16 (JORF 5 août
+1962).*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
 ###### Article 46
 
 Toute personne embarquée, autre que le capitaine, qui commet ou tente de commettre, dans une intention coupable et à l'insu
@@ -1237,6 +1267,39 @@ constituer des délits.
 
 ### Chapitre IV : Infractions concernant la police de la navigation.
 
+###### Article 64
+
+Tout capitaine requis par l'autorité compétente, comme il est dit aux articles 30 et 31, qui, sans motif légitime, refuse de
+se charger du dossier de l'enquête ou des pièces à conviction ou d'assurer le transport d'un prévenu dans les conditions
+prévues à l'article 31, ou qui ne livre pas le prévenu ou le dossier confié à ses soins à l'autorité maritime désignée pour
+les recevoir, est puni d'une amende de 360 à 20000 francs [*sanction - montant - taux en vigueur, selon la loi 77-1468
+1977-12-30, au 1er janvier 1978*] (1 à 20 F) sans préjudice s'il y a lieu, en cas d'évasion ou de complicité d'évasion, de
+l'application aux personnes embarquées et au prévenu des dispositions des articles 237 à 243 du Code pénal.
+
+**Nota:**
+
+[*Nota : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cite**:
+
+	  - Code pénal 237 à 243
+	  - Code disciplinaire et pénal de la marine marchande 30 et 31
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 65 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
 ###### Article 65
 
 Est puni de la peine prévue à l'article 64 tout capitaine qui, sans motif légitime, refuse de déférer à la réquisition de
@@ -1503,6 +1566,28 @@ dernier.
 	  - Loi n°1926-12-17
 
 
+###### Article 85
+
+Tout capitaine qui, alors qu'il peut le faire sans danger sérieux pour son navire, son équipage ou ses passagers, ne prête
+pas assistance à toute personne, même ennemie, trouvée en mer en danger de se perdre, est puni d'une amende de 180 à 20000
+francs et d'un emprisonnement d'un mois à deux ans, ou de l'une de ces peines seulement.
+
+**Nota:**
+
+NOTA : Sur la répression du délit de fuite en cas d'accident causé par la navigation maritime ou fluviale voir la loi 66-962
+du 26 décembre 1966.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+
 ###### Article 86
 
 En ce qui concerne les contraventions ou délits prévus aux articles 80 à 85, l'administrateur des affaires maritimes ne peut
@@ -1581,6 +1666,28 @@ Intitulé du titre III modifié par la loi 62-899 du 4 août 1962 art. 3*].
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 78 (M)
 	  - Code disciplinaire et pénal de la marine marchande 78, 80 à 85
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
+###### Article 87 bis
+
+Est punie de la peine d'un an à cinq ans d'emprisonnement [*durée*] et d'une amende de 60 à 20000 francs [*sanction - montant
+- Taux en vigueur selon la loi 77-1468 1977-12-30 au 1er janvier 1978*], ou de l'une de ces deux peines seulement toute
+personne qui, étant à terre ou à bord, provoquera, par parole ou par écrits, un homme d'équipage ou l'équipage d'un navire, à
+commettre l'un des délits punis par la présente loi [*provocation*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
 
 	**Codifié par**:
 
