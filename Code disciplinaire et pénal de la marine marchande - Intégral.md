@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-18
 
 # Partie législative
 
@@ -858,38 +858,32 @@ Est puni de six mois d'emprisonnement tout officier, maître ou homme d'équipag
 coupable d'absence irrégulière à bord, lorsqu'il est affecté à un poste de garde ou de sécurité.
 
 L'administrateur des affaires maritimes, en formulant l'avis prévu à l'article 36 (paragraphe 2) ci-dessus, doit indiquer les
-motifs pour lesquels le poste auquel était affecté le marin constituait un poste de garde ou de sécurité [*obligation -
-motivation*].
+motifs pour lesquels le poste auquel était affecté le marin constituait un poste de garde ou de sécurité.
 
 Lorsque le contrat d'engagement a été conclu à durée déterminée ou indéterminée et que le délai de préavis est expiré, le
 marin doit être relevé du poste qu'il occupe de manière à pouvoir quitter librement le bord. Le capitaine qui aura négligé de
 le relever est puni des peines prévues par le paragraphe 1er de l'article 42 ci-après, et il en est de même, quelle que soit
-la forme du contrat d'engagement, dans le cas prévu par l'article 98, paragraphe 2, du Code du travail maritime.
-
-Est puni de la peine prévue au paragraphe 1er du présent article, tout officier, maître ou homme d'équipage, qui se rend
-coupable d'absence irrégulière du bord, soit dans un port métropolitain, après la reprise du service par quarts en vue de
-l'appareillage, soit dans tout autre port, lorsqu'il est de service, ou que son absence, se produisant alors qu'il n'était
-pas de service, a eu pour conséquence de l'empêcher de reprendre son service en temps utile.
+la forme du contrat d'engagement, dans le cas prévu par l'article 98, paragraphe 2, du code du travail maritime.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-17
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 208 () JORF 18 janvier 2002
 
 	**Cite**:
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 36 (V)
 	  - Code disciplinaire et pénal de la marine marchande - art. 42 (M)
 	  - Code disciplinaire et pénal de la marine marchande 36, 42, 98
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
 
 
 ###### Article 40
@@ -1478,10 +1472,6 @@ Les violences commises contre le capitaine par toute personne embarquée sont pu
 
 ###### Article 59
 
-Est puni de six mois d'emprisonnement, tout homme d'équipage qui, soit en mer, soit dans un port autre qu'un port
-métropolitain, a, après une sommation formelle du capitaine ou d'un officier spécialement désigné à cet effet par le
-capitaine, refusé d'obéir ou résisté à un ordre concernant le service.
-
 Est puni de trois mois d'emprisonnement, tout homme d'équipage qui, dans un port métropolitain, a, après une sommation
 formelle du capitaine ou d'un officier spécialement désigné à cet effet par le capitaine, refusé d'obéir ou résisté à un
 ordre concernant le service, donné pour assurer la garde ou la sécurité du navire et lorsque la non-exécution de cet ordre
@@ -1491,21 +1481,25 @@ Si le coupable est un officier ou maître, les peines prévues aux deux paragrap
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°1926-12-17
 
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 208 () JORF 18 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
 	**Cité par**:
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-17
 
 
 ###### Article 60
