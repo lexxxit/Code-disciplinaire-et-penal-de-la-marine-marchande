@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1986-12-16
 
 # Partie législative
 
@@ -737,6 +737,51 @@ l'instruction par le procureur de la République, soit d'office, soit à la requ
 	  - Loi n°62-899 1962-08-04 art. 14 JORF 5 août 1962
 
 
+###### Article 37
+
+La partie lésée a, pour tout crime ou délit, le droit de se porter partie civile devant les juridictions de droit commun
+conformément aux dispositions du Code de procédure pénale. Par dérogation à l'article 182 de ce code, la partie lésée ne peut
+donner citation directement au prévenu devant le tribunal correctionnel, mais doit saisir le juge d'instruction.
+
+La juridiction compétente pour connaître de l'action publique ou de l'action civile est celle : soit de la résidence du
+prévenu, soit du port où il a été débarqué, soit du lieu où il a été appréhendé, soit du port d'immatriculation du navire,
+soit du port où le navire a été conduit, ou, s'il n'a pas été conduit au port, celle de la résidence administrative de
+l'agent qui a constaté l'infraction. Toutefois, s'il s'agit d'un mineur de dix-huit ans, la compétence est déterminée
+conformément aux dispositions spéciales relatives à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 15 JORF 5 août 1962
+	  - Loi n°86-1271 du 15 décembre 1986 - art. 1 () JORF 16 décembre 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°86-1271 du 15 décembre 1986 - art. 3 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 15
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 182 (M)
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marcha... - art. 29 (VT)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30 (VT)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30-1 (V)
+	  - Code disciplinaire et pénal de la marine marcha... - art. 30-2 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 25 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 35 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
 ###### Article 38
 
 Lorsqu'il s'agit des faits prévus par les articles 63, premier et troisième alinéas, 63 bis et 80 à 83 de la présente loi et
@@ -1409,6 +1454,72 @@ constituer des délits.
 
 
 ### Chapitre IV : Infractions concernant la police de la navigation.
+
+###### Article 63
+
+Toute personne, même étrangère, embarquée sur un navire français ou étranger, qui, dans les eaux maritimes et jusqu'à la
+limite des eaux territoriales françaises, ne se conforme pas aux règlements et aux ordres émanant des autorités maritimes et
+relatifs, soit à la police des eaux et rades, soit à la police de la navigation maritime, est punie d'un emprisonnement de
+six jours à six mois et d'une amende de 180 à 15000 francs [*sanction - montant - taux en vigueur selon la loi 85-835
+1985-08-07 au 1er octobre 1986*], ou de l'une de ces deux peines seulement.
+
+La même peine est encourue par toute personne embarquée sur un navire français qui, hors des eaux territoriales françaises,
+ne se conforme pas aux ordres régulièrement donnés par un consul général, consul ou vice-consul de France, par une autorité
+maritime qualifiée, ou par le commandant d'un bâtiment de guerre français.
+
+Le capitaine de tout navire français ou étranger, qui aura enfreint dans les eaux territoriales ou intérieures françaises
+soit les règles de circulation maritime édictées en application de la Convention internationale de Londres du 20 octobre 1972
+en vue de prévenir les abordages en mer et relatives aux dispositifs de séparation de trafic, soit les règles édictées par
+les préfets maritimes en ce qui concerne les distances minimales de passage le lon des côtes françaises, sera puni d'une
+peine d'emprisonnement d'un mois à deux ans et d'une amende de 500 à 50.000 F [*sanction - montant - francs - taux en vigueur
+selon la loi 79-1 1979-01-02*] ou de l'une de ces deux peines seulement. Toutefois, lorsque l'infraction est commise par le
+capitaine d'un bâtiment français ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses
+définies par décret, l'amende est de 50.000 F à 1.000.000 F [*sanction - montant - francs - taux en vigueur selon la loi 79-1
+1979-01-02*].
+
+Est puni des peines prévues par l'alinéa précédent le capitaine de tout navire français qui aura, hors des eaux territoriales
+ou intérieures françaises, enfreint les règles de circulation maritime édictées en application de la convention
+internationale de Londres du 20 octobre 1972 en vue de prévenir les abordages en mer, et relatives aux dispositifs de
+séparation de trafic.
+
+Si les infractions prévues au présent article ont été commises en temps de guerre, la peine peut être portée au triple, et la
+connaissance desdites infractions appartient aux tribunaux  maritimes.
+
+**Nota:**
+
+NOTA : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17.
+
+[*Les dispositions des alinéas 1 et 2 de l'article 63 ont une valeur réglementaire selon la loi du 8 décembre 1939.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1972-12-20 Londres
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 18 JORF 5 août 1962
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°79-1 du 2 janvier 1979 - art. 2 () JORF 3 janvier 1979
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
+	  - Loi n°86-1271 du 15 décembre 1986 - art. 2 () JORF 16 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°70-1264 du 23 décembre 1970 - art. 8 (V)
+	  - Décret n°2017-426 du 28 mars 2017 (V)
+	  - Code de l'environnement - art. L331-19 (V)
+	  - Code de l'environnement - art. L332-22 (V)
+	  - Code de l'environnement - art. L334-6 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 38 (VT)
+	  - Code rural - art. L241-15 (Ab)
+	  - Code rural - art. L242-26 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
 
 ###### Article 63 bis
 
