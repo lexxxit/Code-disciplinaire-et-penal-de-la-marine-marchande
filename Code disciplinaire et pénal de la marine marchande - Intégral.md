@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2003-12-20
 
 # Partie législative
 
@@ -333,7 +333,7 @@ est abrogé en tant qu'il concerne les infractions définies par le code des tra
 ###### Article 27
 
 Les procès-verbaux, dûment signés, établis par les officiers et agents énumérés à l'alinéa 2° de l'article 26 ci-dessus, font
-foi jusqu'à preuve contraire ; ils ne sont pas soumis à l'affirmation.
+foi jusqu'à preuve contraire.
 
 Les procès-verbaux établis par les officiers et les officiers mariniers commandant les bâtiments ou embarcations de l'Etat
 sont transmis à l'administrateur des affaires maritimes dans la circonscription duquel ils se trouvent, et en cas
@@ -344,7 +344,27 @@ les agents du personnel de la surveillance des pêches, les gendarmes maritimes 
 sont transmis, dans la forme hiérarchique, à l'administrateur des affaires maritimes du quartier dans lequel ils sont en
 service.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 7 17° : L'article 27 du code disciplinaire et pénal de la marine marchande
+est abrogé en tant qu'il concerne les infractions définies par le code des transports.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 14 () JORF 20 décembre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5222-2 (V)
+	  - Code des transports - art. L5523-1 (V)
+	  - Code des transports - art. L5531-2 (V)
 
 	**Cite**:
 
