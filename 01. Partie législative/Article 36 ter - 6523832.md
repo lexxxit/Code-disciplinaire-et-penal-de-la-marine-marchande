@@ -5,8 +5,8 @@ contraventions relevant de la compétence des tribunaux maritimes commerciaux et
 juges d'instruction par le Code de procédure pénale, notamment pour la délivrance de mandats de compuration, d'amener, de
 dépôt et d'arrêt.
 
-Les administrateurs des affaires maritimes appelés à présider le tribunal maritime commercial compétent pour juger un prévenu
-peuvent également délivrer contre le prévenu un mandat de comparution, d'amener, de dépôt ou d'arrêt.
+Le président du tribunal maritime commercial compétent pour juger un prévenu peut également délivrer contre le prévenu un
+mandat de comparution, d'amener, de dépôt ou d'arrêt.
 
 Les dispositions du Code de procédure pénale relatives à la détention préventive sont applicables aux prévenus de délits
 relevant de la compétence des tribunaux maritimes commerciaux.
@@ -22,4 +22,4 @@ l'instruction par le procureur de la République, soit d'office, soit à la requ
 
 	**Modifié par**:
 
-	  - Loi n°62-899 1962-08-04 art. 14 JORF 5 août 1962
+	  - Loi n°93-1013 1993-08-24 art. 45 JORF 25 août 1993 en vigueur le 2 septembre 1993
