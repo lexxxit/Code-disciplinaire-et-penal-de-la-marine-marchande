@@ -1,9 +1,57 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1960-08-04
+Version Consolidée au 1962-08-05
 
 # Partie législative
 
 ## Titre I : Dispositions générales.
+
+###### Article 1
+
+Sont soumises à toutes les dispositions de la présente loi, en quelque lieu que se trouve le navire, et hors des cas prévus
+par le Code de justice militaire :
+
+1° Toutes les personnes, de quelque nationalité qu'elles soient, inscrites sur le rôle d'équipage d'un navire français autre
+qu'un navire de guerre, immatriculé en France métropolitaine ou dans un département d'outre-mer et y ayant conservé son port
+d'attache, à partir du jour de leur embarquement administratif, jusques et y compris le jour de leur débarquement
+administratif ;
+
+2° Toutes les personnes, de quelque nationalité qu'elles soient, qui se trouvent, en fait, à bord d'un navire visé à l'alinéa
+premier ci-dessus, soit comme passagers proprement dits, soit en vue d'effectuer le voyage, pendant tout le temps de leur
+présence sur le bâtiment.
+
+Les personnes de l'équipage et les marins passagers naufragés, absents irrégulièrement ou délaissés qui ont été embarqués
+pour être rapatriés, continuent d'être soumis aux dispositions de la présente loi, en cas de perte du navire, jusqu'à ce
+qu'ils aient pu être remis soit à une autorité française, soit à une autorité étrangère locale. Il en est de même des autres
+personnes embarquées si elles ont demandé à suivre la fortune de l'équipage.
+
+Par dérogation aux dispositions qui précèdent, les militaires et marins des armées de terre et de mer embarqués, à quelque
+titre que ce soit, sur un des navires visés à l'alinéa premier ci-dessus, demeurent justiciables des tribunaux militaires de
+l'armée de terre ou de l'armée de mer pour tout délit ou crime prévu par la présente loi.
+
+Un décret contresigné par le ministre chargé de la marine marchande, le ministre d'Etat chargé de la défense nationale et le
+ministre chargé des territoires d'outre-mer déterminera la procédure à suivre pour la recherche et la constatation des délits
+ou crimes prévus au paragraphe précédent, ainsi que les conditions de la répression des fautes de discipline prévues par la
+présente loi, lorsqu'elles sont commises par des militaires ou marins des armées de terre ou de mer.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 1 JORF 5 août 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 25 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
 
 ###### Article 3
 
@@ -139,6 +187,42 @@ la mise en examen et toute mention relative à l'inculpé est remplacée par une
 
 ### Chapitre I : Compétence et procédure.
 
+###### Article 28
+
+Dès que le capitaine a connaissance d'un crime, d'un délit ou d'une contravention commis à bord, il procède à une enquête
+préliminaire conformément aux dispositions du titre II du livre Ier du Code de procédure pénale. Les circonstances du crime,
+du délit ou de la contravention et les énonciations du procès-verbal de l'enquête préliminaire sont mentionnées au livre de
+discipline.
+
+En cas de nécessité, le capitaine peut faire arrêter préventivement l'inculpé. S'il s'agit d'un mineur de dix-huit ans, ce
+dernier devra, être séparé de tous autres détenus. L'emprisonnement préventif est subordonné à l'observation des règles
+prévues aux deuxième et troisième alinéas de l'article 8. L'imputation de la détention préventive sur la durée de la peine
+est de droit, sauf décision contraire de la juridiction compétente.
+
+**Nota:**
+
+[*Nota : Intitulé du titre III modifié par la loi 62-899 1962-08-04 art. 3.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 6 JORF 5 août 1962
+
+	**Cité par**:
+
+	  - Loi n°71-569 du 15 juillet 1971 - art. 4 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 33 (VT)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande 8 al. 2 et al. 3
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
 ###### Article 32
 
 Les frais nécessités par le transport du prévenu, rapatrié par tout autre moyen que le navire auquel il appartient, sont
@@ -157,6 +241,52 @@ Intitulé du titre III modifié par la loi 62-899 1962-08-04 art. 3. *]
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 15
+
+
+###### Article 36 bis
+
+Les contraventions ou délits prévus par les articles 39 à 43, 45, 54 à 57, 59, 62 à 67, 80 à 85, 87 et 87 bis sont, en France
+métropolitaine, de la connaissance des tribunaux maritimes commerciaux institués par le titre IV de la présente loi.
+
+Dans les départements d'outre-mer, ils sont de la compétence des tribunaux correctionnels. Les dispositions des alinéas 2 et
+4 de l'article 36 leur sont alors applicables.
+
+Toutefois, les mineurs de dix-huit ans sont déférés aux juridictions pour enfants, conformément aux dispositions de l'article
+33 (2°).
+
+**Nota:**
+
+Intitulé du titre III modifié par la loi 62-899 1962-08-04 art. 3. *]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 13 JORF 5 août 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 25 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 33 (VT)
+	  - Code disciplinaire et pénal de la marine marchande - art. 86 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 88 (V)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 45 (M)
+	  - Code disciplinaire et pénal de la marine marchande - art. 59 (M)
+	  - Code disciplinaire et pénal de la marine marchande - art. 87 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 87 bis (M)
+	  - Code disciplinaire et pénal de la marine marchande 33, 36, 39 à 43, 45, 54 à 57, 59, 62 à 67, 80 à 85, 87, 87 bis
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
 
 
 ### Chapitre II : De l'absence irrégulière et de l'abandon de poste.
@@ -816,6 +946,56 @@ dernier.
 	  - Loi n°1926-12-17
 
 
+###### Article 87
+
+Les dispositions des articles 80 à 83 sont applicables aux personnes, mêmes étrangères, qui se trouvent sur un navire
+étranger, lorsque l'infraction a lieu dans les eaux maritimes et jusqu'à la limite des eaux territoriales françaises.
+
+Les mêmes dispositions, ainsi que celles de l'article 78, sont également applicables aux personnes qui se trouvent sur un
+navire ou engin muni d'un permis de circulation ou d'une carte de circulation. Est alors considérée comme capitaine la
+personne qui, en fait, dirige le navire ou engin.
+
+Dans le cas où l'une des infractions prévues par les articles 80, 81 et 83 à 85, a été commise par une personne exerçant le
+commandement dans les conditions irrégulières déterminées par l'article 70, la peine est portée au double.
+
+**Nota:**
+
+Intitulé du titre III modifié par la loi 62-899 du 4 août 1962 art. 3*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 20 JORF 5 août 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5242-3 (V)
+	  - Code des transports - art. L5242-4 (V)
+	  - Code des transports - art. L5242-5 (V)
+	  - Code des transports - art. L5262-6 (V)
+	  - Code des transports - art. L5263-1 (V)
+	  - Code des transports - art. L5263-3 (V)
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 91 (V)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 78 (M)
+	  - Code disciplinaire et pénal de la marine marchande 78, 80 à 85
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
 ## Titre IV : Des tribunaux maritimes commerciaux.
 
 ###### Article 88
@@ -839,6 +1019,53 @@ Article 88 nouveau*].
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+
+###### Article 89
+
+Un tribunal maritime commercial est institué dans les chefs-lieux de quartier de France métropolitaine désignés par décret.
+Le décret institutif fixe la circonscription de juridiction du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 21 JORF 5 août 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article 90-1
+
+Si, dans une même affaire, comparaissent plusieurs prévenus qui sont, soit des marins titulaires de brevets ou diplômes
+différents, soit des marins brevetés ou diplômés et des marins non brevetés ni diplômés ou des personnes autres que des
+marins, le tribunal maritime commercial comprend, en plus du quatrième juge désigné en fonction du prévenu titulaire du
+brevet ou diplôme le plus élevé, autant de juges supplémentaires qu'il est nécessaire pour tenir compte, en exécution des
+dispositions de l'article précédent, de la situation des autres prévenus.
+
+Toutefois, au cours du délibéré et du vote sur la culpabilité et lors de la fixation de la peine, le quatrième juge et chacun
+des juges supplémentaires n'interviennent qu'en ce qui concerne le ou les prévenus à raison duquel ou desquels ils ont été
+nommés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Créé par**:
+
+	  - Loi n°62-899 1962-08-04 art. 23 JORF 5 août 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ###### Article 91
@@ -915,6 +1142,25 @@ procéder devant les tribunaux maritimes commerciaux ou des dispositions concern
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article 94
+
+Un décret fixera la forme de procéder devant les tribunaux maritimes commerciaux.
+
+Un règlement d'administration publique détermine les frais qui peuvent être compris sous la dénomination des frais de justice
+pour l'application de la présente loi ; il en établit le tarif, en règle le paiement et le recouvrement, fixe les conditions
+que doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui s'y rapporte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Loi n°62-899 1962-08-04 art. 24 JORF 5 août 1962
 
 
 ## Titre V : Dispositions diverses.
