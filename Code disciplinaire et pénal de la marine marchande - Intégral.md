@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1939-08-03
+Version Consolidée au 1940-05-31
 
 # Partie législative
 
@@ -874,6 +874,38 @@ Article 88 nouveau*].
 	**Cite**:
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-17
+
+
+###### Article 91
+
+Chaque fois que le tribunal maritime commercial est chargé de juger un des délits prévus aux articles 80 à 85 et 87, un
+commissaire rapporteur, appartenant au corps des officiers de marine, et désigné par le préfet maritime ou par le chef
+d'arrondissement maritime, est chargé de l'instruction. Il remplit, en outre, auprès du tribunal maritime commercial, les
+fonctions du ministère public.
+
+**Nota:**
+
+Dispositions réglementaires selon la loi du 19 mars 1939.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°56-1219 du 26 novembre 1956 - art. 11 (Ab)
+	  - Décret n°56-1219 du 26 novembre 1956 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 87 (V)
+	  - Code disciplinaire et pénal de la marine marchande 80 à 85, 87
 
 	**Codifié par**:
 
