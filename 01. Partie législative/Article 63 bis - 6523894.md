@@ -1,23 +1,18 @@
 # Article 63 bis
 
-Sera puni d'une peine d'emprisonnement d'un mois à deux ans et d'une amende de 100.000 F à 500.000 F [*sanction - montant -
-francs - taux en vigueur selon la loi 79-1 1979-01-02*], ou de l'une de ces deux peines seulement, le capitaine de tout
-navire français ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses définies par
-décret, qui aura pénétré dans les eaux territoriales ou intérieures françaises sans avoir signalé au préfet maritime la date
-et l'heure d'entrée, la position, la route et la vitesse du navire ainsi que la nature et l'importance du chargement et, le
-cas échéant, tout accident de mer au sens des stipulations de la Convention de Bruxelles du 29 novembre 1969, dont il aura
-été victime. Sera puni des mêmes peines tout capitaine qui n'aura pas signalé au préfet maritime tout accident de mer dont
-son navire aura été victime alors qu'il naviguait dans les eaux territoriales ou intérieures françaises.
+Sera puni d'une peine de deux ans d'emprisonnement et de 500000 F d'amende, ou de l'une de ces deux peines seulement, le
+capitaine de tout navire français ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses
+définies par décret, qui aura pénétré dans les eaux territoriales ou intérieures françaises sans avoir signalé au préfet
+maritime la date et l'heure d'entrée, la position, la route et la vitesse du navire ainsi que la nature et l'importance du
+chargement et, le cas échéant, tout accident de mer au sens des stipulations de la Convention de Bruxelles du 29 novembre
+1969, dont il aura été victime. Sera puni des mêmes peines tout capitaine qui n'aura pas signalé au préfet maritime tout
+accident de mer dont son navire aura été victime alors qu'il naviguait dans les eaux territoriales ou intérieures françaises.
 
 Les peines édictées à l'alinéa précédent seront encourues par le capitaine de tout navire français ou étranger qui, se
 trouvant dans les eaux territoriales françaises, se sera, aux fins d'assistance ou de remorquage, porté au secours de tout
 navire transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses définies par décret, sans avoir signalé
 au préfet maritime dès qu'il en a eu connaissance la position du navire en difficulté et la nature de ses avaries ou sans
 avoir tenu le préfet maritime informé du déroulement des opérations de secours.
-
-**Nota:**
-
-[*Nota : Intitulés du titre III et du chapitre IV modifiés par la loi 62-899 1962-08-04 art. 3 et art. 17*].
 
 **Liens relatifs à cet article**
 
@@ -29,6 +24,10 @@ avoir tenu le préfet maritime informé du déroulement des opérations de secou
 
 	  - Loi n°1926-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°79-1 du 2 janvier 1979 - art. 3 () JORF 3 janvier 1979
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
