@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2010-07-03
 
 # Partie législative
 
@@ -2632,63 +2632,6 @@ Le décret institutif fixe la circonscription de juridiction du tribunal.
 	**Abrogé par**:
 
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
-
-
-###### Article 90
-
-Le tribunal maritime commercial est composé de cinq membres, à savoir :
-
-Un magistrat du siège du tribunal de grande instance dans le ressort duquel se trouve le tribunal maritime commercial,
-président.
-
-Juges :
-
-- un administrateur des affaires maritimes qui n'a pas participé aux poursuites ou à l'instruction de l'affaire en cause.
-
-- un agent des affaires maritimes choisi en fonction de ses compétences dans le domaine de la sécurité des navires ou de la
-sauvegarde de la vie humaine en mer parmi les corps d'officiers des affaires maritimes, ou de fonctionnaires ou de
-contractuels de catégorie A des affaires maritimes.
-
-- un capitaine au long cours ou un capitaine de première classe de la navigation maritime de moins de soixante ans, en
-activité ou inactif depuis moins de cinq ans, ayant accompli au moins quatre ans de commandement.
-
-- suivant la qualité du prévenu, un quatrième juge choisi comme suit :
-
-A - Si le prévenu est un marin breveté ou diplômé : un marin actif titulaire du même brevet ou diplôme, en activité ou
-inactif depuis moins de cinq ans ;
-
-B - Si le prévenu est un marin ni breveté ni diplômé : un maître ou une personne d'un grade équivalent à celui de maître, en
-activité ou inactif depuis moins de cinq ans, appartenant à la spécialité (pont, machine ou service général) du prévenu ;
-
-C - Si le prévenu n'est pas un marin : un agent des affaires maritimes choisi en fonction de ses compétences dans le domaine
-de la sécurité des navires ou de la sauvegarde de la vie humaine en mer parmi les corps d'officiers des affaires maritimes,
-ou de fonctionnaires ou de contractuels de catégorie A des affaires maritimes.
-
-Le quatrième juge prévu dans les cas A et B ci-dessus est pris parmi les marins n'ayant subi aucune condamnation pénale ou
-sanction disciplinaire présents dans le port, siège du tribunal maritime commercial ou à défaut dans les ports voisins.
-
-Un contrôleur des affaires maritimes remplit les fonctions de greffier.
-
-**Nota:**
-
-Dans sa décision n° 2010-10 QPC du 2 juillet 2010 (NOR : CSCX1017662S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article 90 du code disciplinaire et pénal de la marine marchande. Cette déclaration d'inconstitutionnalité
-prend effet, conformément à l'article 2 de ladite décision, à compter de la publication de la présente décision dans les
-conditions fixées par son considérant 5.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 45 JORF 25 août 1993 en vigueur le 2 septembre 1993
-
-	**Abrogé par**:
-
-	  - Décision n°2010-10 QPC du 2 juillet 2010, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-17
 
 
 ###### Article 90-1
