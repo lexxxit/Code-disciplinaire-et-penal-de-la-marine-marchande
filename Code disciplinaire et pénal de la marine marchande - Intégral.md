@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2011-02-26
 
 # Partie législative
 
@@ -1195,31 +1195,33 @@ le contrevenant a subi, dans les douze mois qui précèdent, une condamnation po
 
 **Nota:**
 
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 7 : Le présent article est abrogé en tant qu'il concerne la durée du
-travail, le repos et l'âge d'admission des marins.
+Conformément à l'article 18 de l'ordonnance n° 2012-1218 du 2 novembre 2012, l'abrogation de l'article 69 prévue au II du
+même article  prendra effet lors de l'entrée en vigueur du décret instaurant les contraventions dans les domaines prévus au a
+du 4° de l'article 199 de la loi n° 2011-525 du 17 mai 2011 et, au plus tard, dans le délai d'un an après l'entrée en vigueur
+de la présente ordonnance.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Décret n°2006-214 du 22 février 2006 - art. 3 (V)
 	  - Décret n°2006-534 du 10 mai 2006 - art. 15 (M)
 
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
 	**Cite**:
 
-	  - Code disciplinaire et pénal de la marine marchande 23
+	  - Code disciplinaire et pénal de la marine marchande.
 
 	**Codifié par**:
 
 	  - Loi n°1926-12-17
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ###### Article 72
